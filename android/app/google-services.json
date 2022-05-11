@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934027067138",
+    "project_id": "get-taxiii",
+    "storage_bucket": "get-taxiii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934027067138:android:8ceff2d6cfbfdf6c338c1b",
+        "android_client_info": {
+          "package_name": "com.aiktc.gettaxiii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934027067138-a2lh7rf5v88oe8f6qjv3tgo1j3hump9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoIGsxNOgWfM1-nL3vhi488L9_DvijW6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934027067138-a2lh7rf5v88oe8f6qjv3tgo1j3hump9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
